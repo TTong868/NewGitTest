@@ -1,3 +1,11 @@
-[![Build Status](https://img.shields.io/github/workflow/status/linkedin/LiTr/Merge%20checks)](passing)
+https://github.com/nasa/astrobee/actions/workflows/msgs_jar.yaml
 
-[![Build Status](https://img.shields.io/github/workflow/status/linkedin/LiTr/Merge%20checks)](https://img.shields.io/github/workflow/status/linkedin/LiTr/Merge%20checks)
+
+
+<a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg"/></a>
+
+
+<a href="https://github.com/nasa/astrobee/actions/workflows/msgs_jar.yaml"><img src="https://img.shields.io/badge/Build_jar_messages-passing-green.svg"/></a>
+
+
+
